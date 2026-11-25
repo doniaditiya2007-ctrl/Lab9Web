@@ -1,0 +1,9 @@
+<?php
+// Salin menjadi database.local.php lalu sesuaikan dengan MySQL lokal.
+return [
+    'host' => '127.0.0.1',
+    'port' => '3306',
+    'name' => 'db_lab9web',
+    'user' => 'root',
+    'pass' => '',
+];
